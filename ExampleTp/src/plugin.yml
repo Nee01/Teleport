@@ -1,0 +1,8 @@
+name: ExampleTP
+main: me.nee.tp.Main
+version: 1.0
+description: ExampleTP
+
+commands:
+  Teleport:
+    description: /<Teleport> <name>
